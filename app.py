@@ -1,2 +1,2 @@
 print („Hello world fixed“)
-print(„Some string“)
+print(„Some string Fixed“)
